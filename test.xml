@@ -1,0 +1,26 @@
+<RestClientRequest>
+  <option name="httpMethod" value="PUT" />
+  <option name="urlBase" value="http://laravel1.app" />
+  <option name="urlPath" value="/posts/1" />
+  <option name="headers">
+    <list>
+      <KeyValuePair>
+        <option name="key" value="Accept" />
+        <option name="value" value="application/json" />
+      </KeyValuePair>
+      <KeyValuePair>
+        <option name="key" value="Cache-Control" />
+        <option name="value" value="no-cache" />
+      </KeyValuePair>
+    </list>
+  </option>
+  <option name="parameters">
+    <list />
+  </option>
+  <option name="parametersEnabled" value="true" />
+  <option name="haveTextToSend" value="true" />
+  <option name="haveFileToSend" value="false" />
+  <option name="isFileUpload" value="false" />
+  <option name="textToSend" value="&quot; name&quot;=testgg" />
+  <option name="filesToSend" value="" />
+</RestClientRequest>

@@ -1,0 +1,1 @@
+/home/mika/dev/laravel1/app/views/Posts/show.blade.php
